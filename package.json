@@ -1,0 +1,32 @@
+{
+  "name": "clever-currency-backend",
+  "version": "0.0.1",
+  "dependencies": {
+
+  },
+  "author": {
+    "name": "Clevertech",
+    "email": "info@clevertech.biz",
+    "web": "http://www.clevertech.biz"
+  },
+  "collaborators": [
+    "Richard Gustin <richard@clevertech.biz>",
+    "Daniel Young <daniel@clevertech.biz>"
+  ],
+  "description": "The backend currency module for CleverStack. Provides seed data and routes for you to pull down a list of currencies.",
+  "keywords": [
+    ""
+  ],
+  "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CleverStack/clever-currency-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CleverStack/clever-currency-backend/issues"
+  },
+  "main": "module.js",
+  "devDependencies": {
+
+  }
+}
