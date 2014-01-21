@@ -15,7 +15,10 @@
   ],
   "description": "The backend currency module for CleverStack. Provides seed data and routes for you to pull down a list of currencies.",
   "keywords": [
-    ""
+    "cleverstack",
+    "clevertech",
+    "cleverstack-module",
+    "cleverstack-backend"
   ],
   "license": "BSD-2-Clause",
   "repository": {
